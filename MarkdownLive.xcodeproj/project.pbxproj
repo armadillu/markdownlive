@@ -43,6 +43,7 @@
 		ABF75D7513CDEBBB00B5E7AB /* EditPaneTypesetter.m in Sources */ = {isa = PBXBuildFile; fileRef = ABF75D7013CDEBBA00B5E7AB /* EditPaneTypesetter.m */; };
 		ABF75D7613CDEBBB00B5E7AB /* PreferencesController.m in Sources */ = {isa = PBXBuildFile; fileRef = ABF75D7113CDEBBA00B5E7AB /* PreferencesController.m */; };
 		ABF75D7713CDEBBB00B5E7AB /* PreferencesManager.m in Sources */ = {isa = PBXBuildFile; fileRef = ABF75D7213CDEBBA00B5E7AB /* PreferencesManager.m */; };
+		BB6A6A11151D211B004CEBE8 /* MDLdoc.icns in Resources */ = {isa = PBXBuildFile; fileRef = BB6A6A10151D211B004CEBE8 /* MDLdoc.icns */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -122,6 +123,7 @@
 		ABF75D7013CDEBBA00B5E7AB /* EditPaneTypesetter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EditPaneTypesetter.m; sourceTree = "<group>"; };
 		ABF75D7113CDEBBA00B5E7AB /* PreferencesController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PreferencesController.m; sourceTree = "<group>"; };
 		ABF75D7213CDEBBA00B5E7AB /* PreferencesManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PreferencesManager.m; sourceTree = "<group>"; };
+		BB6A6A10151D211B004CEBE8 /* MDLdoc.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = MDLdoc.icns; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -231,6 +233,7 @@
 		2A37F4B8FDCFA73011CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				BB6A6A10151D211B004CEBE8 /* MDLdoc.icns */,
 				226936E612E7CDC500171322 /* styles.css */,
 				795F6C86105D70A300D1F90A /* MarkdownLiveApp.icns */,
 				2A37F4B9FDCFA73011CA2CEA /* Credits.rtf */,
@@ -383,6 +386,7 @@
 				1DDD582C0DA1D0D100B32029 /* MyDocument.xib in Resources */,
 				1DDD582D0DA1D0D100B32029 /* MainMenu.xib in Resources */,
 				795F6C87105D70A300D1F90A /* MarkdownLiveApp.icns in Resources */,
+				BB6A6A11151D211B004CEBE8 /* MDLdoc.icns in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

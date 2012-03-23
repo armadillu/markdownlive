@@ -16,7 +16,7 @@
 				<string></string>
 			</array>
 			<key>CFBundleTypeIconFile</key>
-			<string></string>
+			<string>MDLdoc.icns</string>
 			<key>CFBundleTypeName</key>
 			<string>MarkdownDocumentType</string>
 			<key>CFBundleTypeOSTypes</key>
